@@ -17,7 +17,7 @@ public class App
     }
 
 	private void hello() {
-		System.out.println("Hello World of GITS");
+		System.out.println("Hello  of GITS");
 			
 	}
 }
